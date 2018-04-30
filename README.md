@@ -1,3 +1,6 @@
+# Description
+
+Jan-Samadhan is a web portal which will help people to remember only one domain-name, where he/she can file his/her complaint with one of the several departments already mentioned in the complaint form and finally complaint will be forwarded to the respected department. This is a simple and more generalized complaint management system that ensures the timely redressal of each problems faced by citizens of smart city Bhopal.
 # Bsch
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
